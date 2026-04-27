@@ -1,0 +1,61 @@
+.home {
+    text-align: center;
+    padding: 50px;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+.ho{
+    color:rgb(119, 119, 235);
+}
+.logo{
+  background-color: rgb(130, 155, 231);
+}
+label{
+    display: block;
+    margin-top: 10px;
+    color: black;
+}
+input{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 3px;
+    border-color: none;
+}
+.login {
+  background-color: lightgoldenrodyellow;
+  color: black; 
+  width: 500px;
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+
+}
+.foot{
+    color: black;
+    }
+button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.contact{
+  text-align: center;
+  color:black
+}
